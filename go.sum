@@ -1,0 +1,3 @@
+github.com/gorilla/mux v1.7.3 h1:gnP5JzjVOuiZD07fKKToCAOjS0yOpj/qPETTXCCS6hw=
+github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
+github.com/ndeloof/mobylette v0.0.0-20210122142052-81b55a69fb64 h1:Zx9+hdrPDRnCLjWFtyfN/3+IMhAIEfQp/dQOC5zMYGI=
